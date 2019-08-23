@@ -1,0 +1,18 @@
+## Interface: 11302
+## Title: LibBrazierTest
+## Author: TheBizzle
+## Version: 1.0.0
+## Dependencies: LibBrazier
+## X-Donate: www.github.com/TheBizzle
+## X-License: BSD-3
+## X-Website: www.github.com/TheBizzle/LibBrazierTest-Lua
+
+TestSuite.lua
+Type.lua
+Function.lua
+Number.lua
+Maybe.lua
+Table.lua
+Equals.lua
+Array.lua
+Slash.lua
